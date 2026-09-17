@@ -124,10 +124,10 @@ Full reasoning and supporting numbers for each recommendation are in [`reports/m
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboards/overview.png) 
+![Dashboard Overview](dashboards/overview.png) ![Referral Channel Percentage share](dashboards/Donut%Chart.png)
 ![KPIs](dashboards/KPIS.png)
-![Registration by Continent](dashboards/map.png)
-![Registration by Country on bar chart](dashboards/barchart.png)
+![Registration by Continent](dashboards/map.png) ![Referral Channel Percentage share](dashboards/clustered%chart.png)
+![Registration by Country on bar chart](dashboards/barchart.png) ![Referral Channel Percentage share](dashboards/Day%time.png)
 
 Built in Power BI across 8 chart visualizations: Overview (KPIs), Channel & Budget, Growth & Timing, Geography. Screenshots available under `/dashboards`.
 
