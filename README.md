@@ -124,7 +124,7 @@ Full reasoning and supporting numbers for each recommendation are included in th
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboards/overview.png) ![Referral Channel Percentage share](dashboards/Donut%20Chart.png)
+![Dashboard Overview](dashboards/overview.png) ![Referral Channel Percentage share](dashboards/Donut%20chart.png)
 ![KPIs](dashboards/KPIS.png)
 ![Registration by Continent](dashboards/map.png) ![Referral Channel Percentage share](dashboards/clustered%20chart.png)
 ![Registration by Country on bar chart](dashboards/barchart.png) ![Referral Channel Percentage share](dashboards/Day%20time.png)
