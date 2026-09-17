@@ -120,14 +120,14 @@ A set of 6 boolean columns (one per channel) was built and combined per unique p
 - **Growth:** concentrate ad delivery and content pushes in the 12pm–11pm window; build a Twitter → WhatsApp two-stage funnel
 - **Geography:** prioritize organic growth in South Africa, Ghana, and Kenya
 
-Full reasoning and supporting numbers for each recommendation are in [`reports/medium_article.md`](reports/medium_article.md).
+Full reasoning and supporting numbers for each recommendation are included in the medium article *[https://medium.com/@bashirrokeeb13/from-messy-forms-to-a-marketing-roadmap-cleaning-and-analyzing-zion-techhubs-cohort-9-10-ff15230e0c83?postPubl]*.
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboards/overview.png) ![Referral Channel Percentage share](dashboards/Donut%Chart.png)
+![Dashboard Overview](dashboards/overview.png) ![Referral Channel Percentage share](dashboards/Donut%20Chart.png)
 ![KPIs](dashboards/KPIS.png)
-![Registration by Continent](dashboards/map.png) ![Referral Channel Percentage share](dashboards/clustered%chart.png)
-![Registration by Country on bar chart](dashboards/barchart.png) ![Referral Channel Percentage share](dashboards/Day%time.png)
+![Registration by Continent](dashboards/map.png) ![Referral Channel Percentage share](dashboards/clustered%20chart.png)
+![Registration by Country on bar chart](dashboards/barchart.png) ![Referral Channel Percentage share](dashboards/Day%20time.png)
 
 Built in Power BI across 8 chart visualizations: Overview (KPIs), Channel & Budget, Growth & Timing, Geography. Screenshots available under `/dashboards`.
 
@@ -163,7 +163,7 @@ Raw source files are not included; place your own Cohort 9/10 exports under `dat
 
 ## Full Write-up
 
-The complete narrative — every cleaning decision, the de-identification findings, and detailed answers to all three challenge questions — is available in [`reports/medium_article.md`](reports/medium_article.md), also published on Medium: *[https://medium.com/@bashirrokeeb13/from-messy-forms-to-a-marketing-roadmap-cleaning-and-analyzing-zion-techhubs-cohort-9-10-ff15230e0c83?postPubl]*.
+The complete narrative — every cleaning decision, the de-identification findings, and detailed answers to all three challenge questions have been published on Medium: *[https://medium.com/@bashirrokeeb13/from-messy-forms-to-a-marketing-roadmap-cleaning-and-analyzing-zion-techhubs-cohort-9-10-ff15230e0c83?postPubl]*.
 
 
 **Author:** Rokeeb Bashir
