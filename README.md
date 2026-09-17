@@ -126,8 +126,8 @@ Full reasoning and supporting numbers for each recommendation are in [`reports/m
 
 ![Dashboard Overview](dashboards/overview.png)
 ![KPIs](dashboards/KPIS.png)
-![Registration by Country on map viz](dashbaords/map.png)
-![Registration by Country on bar chart viz](dashbaords/barchart.png)
+![Registration by Continent](dashboards/map.png)
+![Registration by Country on bar chart](dashboards/barchart.png)
 
 Built in Power BI across 8 chart visualizations: Overview (KPIs), Channel & Budget, Growth & Timing, Geography. Screenshots available under `/dashboards`.
 
@@ -163,9 +163,8 @@ Raw source files are not included; place your own Cohort 9/10 exports under `dat
 
 ## Full Write-up
 
-The complete narrative — every cleaning decision, the de-identification findings, and detailed answers to all three challenge questions — is available in [`reports/medium_article.md`](reports/medium_article.md), also published on Medium: *[link]*.
+The complete narrative — every cleaning decision, the de-identification findings, and detailed answers to all three challenge questions — is available in [`reports/medium_article.md`](reports/medium_article.md), also published on Medium: *[https://medium.com/@bashirrokeeb13/from-messy-forms-to-a-marketing-roadmap-cleaning-and-analyzing-zion-techhubs-cohort-9-10-ff15230e0c83?postPubl]*.
 
----
 
 **Author:** Rokeeb Bashir
 **Challenge:** Zion TechHub Data Challenge
