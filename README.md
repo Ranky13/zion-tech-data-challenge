@@ -124,7 +124,7 @@ Full reasoning and supporting numbers for each recommendation are in [`reports/m
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboards/overview.png)
+![Dashboard Overview](dashboards/overview.png) 
 ![KPIs](dashboards/KPIS.png)
 ![Registration by Continent](dashboards/map.png)
 ![Registration by Country on bar chart](dashboards/barchart.png)
