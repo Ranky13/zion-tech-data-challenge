@@ -124,9 +124,9 @@ Full reasoning and supporting numbers for each recommendation are in [`reports/m
 
 ## Dashboard Preview
 
-![Dashboard Overviwe](dashboards/overview.png)
+![Dashboard Overview](dashboards/overview.png)
 ![KPIs](dashboards/KPIS.png)
-![Registration by Country on mapp viz](dashbaords/map.png)
+![Registration by Country on map viz](dashbaords/map.png)
 ![Registration by Country on bar chart viz](dashbaords/barchart.png)
 
 Built in Power BI across 8 chart visualizations: Overview (KPIs), Channel & Budget, Growth & Timing, Geography. Screenshots available under `/dashboards`.
